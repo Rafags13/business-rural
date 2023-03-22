@@ -1,0 +1,55 @@
+{
+    "Plan": [
+        {
+            "name": "Plano Básico",
+            "types": [
+                {
+                    "name": "Mensal",
+                    "value": "9.90"
+                },
+                {
+                    "name": "Semestral",
+                    "value": "59.90"
+                },
+                {
+                    "name": "Anual",
+                    "value": "118.40"
+                }
+            ]
+        },
+        {
+            "name": "Plano Top",
+            "types": [
+                {
+                    "name": "Mensal",
+                    "value": "19.90"
+                },
+                {
+                    "name": "Semestral",
+                    "value": "119.90"
+                },
+                {
+                    "name": "Anual",
+                    "value": "238.80"
+                }
+            ]
+        },
+        {
+            "name": "Plano Leite",
+            "types": [
+                {
+                    "name": "Mensal",
+                    "value": "29.90"
+                },
+                {
+                    "name": "Semestral",
+                    "value": "179.40"
+                },
+                {
+                    "name": "Anual",
+                    "value": "358.80"
+                }
+            ]
+        }
+    ]
+}

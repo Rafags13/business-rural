@@ -1,0 +1,17 @@
+.plans-container {
+    display: flex;
+    flex-direction: column;
+    width: 600px;
+    -webkit-box-shadow: 5px 5px 15px -6px #000000;
+    box-shadow: 5px 5px 15px -6px #000000;
+    padding: 10px;
+}
+
+.plan-title {
+    text-align: center;
+    margin: 20px 0;
+}
+
+.error {
+    color: red
+}

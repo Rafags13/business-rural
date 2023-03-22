@@ -1,0 +1,28 @@
+footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: #EEEEEE;
+    padding: 20px;
+    margin-top: 100px;
+    text-align: center;
+}
+
+.footer-text {
+    font-size: 14px;
+}
+
+@media (max-height: 830px) {
+    footer {
+        margin-top: 300px;
+        position: static;
+    }
+}
+
+@media (max-width: 1080px) {
+    footer {
+        position: static;
+        margin-top: 300px;
+    }
+}

@@ -1,0 +1,19 @@
+.button-container {
+    margin-top: 10px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    color: white;
+    background-color: #000;
+    border-radius: 4px;
+    width: 100%;
+    border: 0;
+}
+
+.button-container:hover {
+    cursor: pointer;
+    background-color: #333;
+}
+
+.button-container:active {
+    background-color: #666;
+}

@@ -1,0 +1,37 @@
+.title {
+    margin-top: 10px;
+    /* margin: 20px 0; */
+}
+
+.form-container {
+    display: flex;
+    flex-direction: column;
+}
+
+.divide-inputs-address {
+    width: 75%;
+}
+
+.divide-inputs-number {
+    width: 20%;
+}
+
+.divide-inputs {
+    width: 47.5%;
+}
+
+
+.row-inputs {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+@media (max-width: 768px) {
+
+    .divide-inputs-address,
+    .divide-inputs-number,
+    .divide-inputs {
+        width: 100%;
+    }
+}

@@ -1,0 +1,51 @@
+.select-card-container {
+    padding: 10px;
+    margin-bottom: 10px;
+    border-bottom: 1px solid black;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.select-card-name {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.select-card-container:last-child {
+    margin-bottom: 5px;
+}
+
+.select-card-container:hover {
+    cursor: pointer;
+}
+
+.icon-chevron {
+    font-size: 24px;
+    transform: rotate(0deg);
+    transition: all 500ms ease;
+}
+
+.icon-chevron-down {
+    font-size: 24px;
+    transform: rotate(90deg);
+    transition: all 500ms ease;
+}
+
+.select-options {
+    display: flex;
+    flex-direction: column;
+}
+
+.option {
+    padding: 10px;
+}
+
+.option:hover {
+    background-color: #c4c4c4;
+}
+
+.option:active {
+    background-color: #999;
+}
