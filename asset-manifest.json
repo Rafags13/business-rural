@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/business-rural/static/css/main.ad95143b.css",
+    "main.js": "/business-rural/static/js/main.25959856.js",
+    "static/media/header-logo.png": "/business-rural/static/media/header-logo.2aa9173e90d4d6084593.png",
+    "index.html": "/business-rural/index.html",
+    "main.ad95143b.css.map": "/business-rural/static/css/main.ad95143b.css.map",
+    "main.25959856.js.map": "/business-rural/static/js/main.25959856.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ad95143b.css",
+    "static/js/main.25959856.js"
+  ]
+}
